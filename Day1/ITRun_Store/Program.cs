@@ -79,10 +79,7 @@ b) Добавить новый продукт
         if (!productExists)
         {
             Console.WriteLine("\nПродукт не существует");
-            //hello
-            //hello
-            //hello
-            //hello
+            
         }
     }
 }
