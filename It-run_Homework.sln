@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day4", "Day4", "{4555EE70-9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day5", "Day5", "{DDECF8EF-3683-4A92-942D-0D5650DC5B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITRun_Store", "Day1\ITRun_Store\ITRun_Store.csproj", "{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITRun_Store", "Day1\ITRun_Store\ITRun_Store.csproj", "{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 Quadratic Equations", "Task 2 Quadratic Equations\Task 2 Quadratic Equations.csproj", "{6AA0D930-1900-481F-807B-908626B9343F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,12 +27,17 @@ Global
 		{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA0D930-1900-481F-807B-908626B9343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA0D930-1900-481F-807B-908626B9343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA0D930-1900-481F-807B-908626B9343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA0D930-1900-481F-807B-908626B9343F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F24CFDD4-89E8-4188-AE6B-95CCFEFA4B2E} = {C383EA3D-3202-46A5-8540-10CE552C8A23}
+		{6AA0D930-1900-481F-807B-908626B9343F} = {C383EA3D-3202-46A5-8540-10CE552C8A23}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEA90630-E575-4902-B9B3-2AB2C57FD37E}
